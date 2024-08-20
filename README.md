@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Syd Wentz.
+I am a new student beginning my schooling with Tech Elevator in fall 2024.
+
+I look forward to finding what I excel at and putting those skills to good use.
