@@ -30,7 +30,7 @@ I look forward to finding what I excel at and putting those skills to good use.
 <p align="left">I'm currently pushing my professional and educational boundries making a milestones career change into software development after years of travel.
 Meeting so many wonderful people over the years from such diverse backgrounds has given me a tremendous respect for the spaces between our day to day lives. The small exhalation after a task is complete. The simple joy of a hot meal. The smile on someone's face that you did not expect to see. For me, a moment of levity can make the long day worth it. I plan to use my field-tested communication skills and relentless problem solving to make just a little more of those spaces in people's everyday life.</p>
 
-- 🔭 I’m currently working on [PROJECT: Prometheus](https://github.com/Wentz-Syd/PROJECT-Prometheus) and [Forgetful Shopper](https://github.com/Wentz-Syd/ForgettfulShopper)
+- 🔭 I’m currently working on [Brewer Finder](https://github.com/Wentz-Syd/BreweryFinder), [PROJECT: Prometheus](https://github.com/Wentz-Syd/PROJECT-Prometheus) and [Forgetful Shopper](https://github.com/Wentz-Syd/ForgettfulShopper)
 
 - 🌱 I’m currently learning **Kafka and Java Streams.**
 
